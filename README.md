@@ -1,7 +1,17 @@
 # stuff.
+a really random repository.
 
-## hello.
-i don't know what else you want from me.
+## who.
+me.
 
-## goodbye.
-that's it.
+## what.
+code.
+
+## where.
+here.
+
+## when.
+now.
+
+## why.
+because i f###ing can.
